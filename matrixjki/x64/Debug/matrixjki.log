@@ -1,0 +1,4 @@
+﻿  matrixjki.cpp
+F:\program\repos\matrixjki\matrixjki\matrixjki.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\program\repos\matrixjki\matrixjki\matrixjki.cpp(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  matrixjki.vcxproj -> F:\program\repos\matrixjki\x64\Debug\matrixjki.exe
